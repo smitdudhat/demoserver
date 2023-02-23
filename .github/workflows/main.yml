@@ -10,6 +10,7 @@ jobs:
 
 
     runs-on: windows-latest
+    region: au
 
 
     steps:
