@@ -21,11 +21,11 @@ jobs:
 
     - name: Auth
 
-      run: .\ngrok\ngrok.exe authtoken 2KGn7ekzLrqFvRw356syoUBlKba_4Em2fPcYKhdGw4UV4SnSk
+      run: .\ngrok\ngrok.exe authtoken 2ddntLzLTCPGjjzJOoVRPA2L6rI_2e1Y7muegcAMoReSsbFtL
 
       env:
 
-        NGROK_AUTH_TOKEN: 2KGn7ekzLrqFvRw356syoUBlKba_4Em2fPcYKhdGw4UV4SnSk
+        NGROK_AUTH_TOKEN: 2ddntLzLTCPGjjzJOoVRPA2L6rI_2e1Y7muegcAMoReSsbFtL
 
     - name: Enable TS
 
